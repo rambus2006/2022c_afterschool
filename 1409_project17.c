@@ -3,6 +3,7 @@
 
 void print_multiplication_table(int num);
 
+//인터넷 보고 품
 int main(void)
 {
 	int num;

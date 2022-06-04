@@ -3,6 +3,7 @@
 
 char get_grade(int score);
 
+//Ç®¾úÀ½
 int main(void)
 {
 	int score;
